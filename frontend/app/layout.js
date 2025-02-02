@@ -1,18 +1,20 @@
-import "./globals.css";
+import React from 'react';
+import './globals.css';
+import { Inter } from 'next/font/google';
+
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: "DevMate",
-  description: "AI Code Editor",
+  title: 'DevMate – AI-Assisted Code Editor',
+  description: 'A modern, AI-powered online code editor that enhances coding efficiency.',
 };
 
-export default function RootLayout({ children }) {
+function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className="antialiased"
-      >
-        {children}
-      </body>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
+
+export default RootLayout;
