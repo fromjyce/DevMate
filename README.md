@@ -1,22 +1,21 @@
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![GenAI/OpenAI](https://img.shields.io/badge/OpenAI-ff4b3d?style=for-the-badge&logo=openai&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/OpenAI-ff4b3d?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI/OpenAI"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
 
 # devMate - AI-Powered Code Editor
 
 <p align="left">
-  <img src="frontend/app/favicon.ico" alt="devMate" width="300"/>
+  <img src="frontend/app/favicon.ico" alt="devMate" width="100"/>
 </p>
 <p align="left">
   <strong>devMate</strong> is an AI-powered, real-time collaborative code editor that enhances developer productivity with smart suggestions, seamless collaboration, and robust version control.
 </p>
 
-
-### Technology Stack
-
- 
 
 devMate is an innovative AI-assisted code editor designed to empower developers by streamlining the coding process and enhancing collaboration. With real-time editing, intelligent code suggestions, and seamless version control, devMate is the ideal tool for both individual coders and collaborative teams. Built with cutting-edge technologies, devMate ensures a high-quality, efficient, and personalized coding experience.
 
@@ -43,6 +42,8 @@ devMate is an innovative AI-assisted code editor designed to empower developers 
 ## Architecture Overview
 
 devMate is built with scalability, collaboration, and user experience in mind. The editor is powered by the **Codeium** editor engine, integrated with **GenAI** (OpenAI) for AI-assisted code completion and error detection. The backend, developed with **Node.js** and **Express.js**, handles real-time collaboration, version control, and other dynamic functionalities. It is designed to be easily deployable on cloud platforms, with **Vercel** as the target platform for hosting.
+
+![alt text](image-1.png)
 
 ## Getting Started
 
