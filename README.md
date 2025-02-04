@@ -51,7 +51,7 @@ To get started with devMate, follow these steps:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/devMate.git
+   git clone https://github.com/fromjyce/devMate.git
    ```
 
 2. **Install dependencies**  
@@ -67,6 +67,8 @@ To get started with devMate, follow these steps:
    ```
 
 4. Open your browser and navigate to `http://localhost:3000` to begin using devMate.
+
+5. Or, check out our editor at https://v0.dev/chat/next-js-project-setup-vWbltVKZw0U?b=b_m6S4mcmbWuM&p=0
 
 
 ## License
