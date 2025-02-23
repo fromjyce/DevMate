@@ -7,7 +7,7 @@
 </div>
 
 
-# devMate - AI-Powered Code Editor
+# devMate - AI-Powered Code Editor - [Demo](https://drive.google.com/file/d/17rB88iWQo4LkGcYv-Uex1PeSzrxgvMZA/view?usp=drive_link)
 
 <p align="left">
   <img src="frontend/app/favicon.ico" alt="devMate" width="100"/>
@@ -68,7 +68,7 @@ To get started with devMate, follow these steps:
 
 4. Open your browser and navigate to `http://localhost:3000` to begin using devMate.
 
-5. Or, check out our editor at [here](https://v0.dev/chat/next-js-project-setup-vWbltVKZw0U?b=b_m6S4mcmbWuM&p=0)
+5. Or, check out our editor at [here](https://shorturl.at/LOD9o)
 
 
 ## License
